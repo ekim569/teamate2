@@ -92,7 +92,7 @@ node resisterUser.js
 
 #### 8.  서버 실행전 mongodb를 사용하길 원한다면 따라하기
 
-
+server.js 를 열어서 mongoose connection 부분의 몽고db 주소를 내 몽고db에 connection의 주소를 복사 붙여넣기로 바꿔준다.
 
 
 
@@ -101,3 +101,17 @@ node resisterUser.js
 ![Untitled Diagram (2)](https://user-images.githubusercontent.com/44858733/89754031-45332f80-db15-11ea-946f-a1d686370d5d.png)
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/44858733/89754691-d3101a00-db17-11ea-9d54-00dd044ed774.gif)
+
+#### 10. web_template 시나리오 보드
+
+![Untitled Diagram (3)](https://user-images.githubusercontent.com/44858733/89756279-f7bac080-db1c-11ea-91c1-ce00bae02c9d.png)
+
+![Untitled Diagram (1)](https://user-images.githubusercontent.com/44858733/89758731-70bd1680-db23-11ea-8893-2fc634257b1a.png)
+
+#### 11.  web_template UML
+
+
+
+![Untitled Diagram (4)](https://user-images.githubusercontent.com/44858733/89758551-0c01bc00-db23-11ea-9c3f-79e3941431b3.png)
+
+#### 12. Architecture 
